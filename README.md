@@ -16,8 +16,8 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Spring Data JPA-83B81A?style=for-the-badge&logo=Spring&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/QueryDSL-7E4DD2?style=for-the-badge&logo=a&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring Security & JWT-7E4DD2?style=for-the-badge&logo=a&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring Swagger-7E4DD2?style=for-the-badge&logo=a&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring Security & JWT-61DAFB?style=for-the-badge&logo=a&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring Swagger-FF9900?style=for-the-badge&logo=a&logoColor=white"/></a>
 <br /><br />
 
 <div><h1>경험해봤습니다!</h1></div>
