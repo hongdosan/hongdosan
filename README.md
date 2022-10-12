@@ -28,6 +28,7 @@
 <img src="https://img.shields.io/badge/Gateway & Eureka-F7DF1E?style=for-the-badge"/></a> 
 <img src="https://img.shields.io/badge/Jenkins-DC382D?style=for-the-badge"/></a> 
 <img src="https://img.shields.io/badge/Docker-61DAFB?style=for-the-badge"/></a> 
+<img src="https://img.shields.io/badge/RabbitMQ-7F12FF?style=for-the-badge"/></a> 
 <br /><br />
 
 <div><h1>현재 공부 중에 있습니다!</h1></div>
