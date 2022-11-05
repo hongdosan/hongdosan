@@ -1,15 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hongdosan's%20Github&fontSize=77&animation=fadeIn&fontAlignY=38&desc=Welcome!&descAlignY=51&descAlign=62)
 
 <div><h1>기술 블로그</h1></div>
-
 <a href="https://hongdosan.tistory.com/">
     <img 
         src="http://img.shields.io/badge/-개발을 DAMAD-6DB33F?style=for-the-badge&logo=Github&link=https://hongdosan.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HyuckJuneHong&show_icons=true&theme=graywhite)](https://github.com/HyuckJuneHong/github-readme-stats)
 <br /><br />
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HyuckJuneHong&show_icons=true&theme=graywhite)](https://github.com/HyuckJuneHong/github-readme-stats)
 
 <div><h1>경험을 벗어나 깊은 지식을 위해 공부하고 있는 기술</h1></div>
 <p>
