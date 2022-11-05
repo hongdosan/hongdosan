@@ -19,7 +19,16 @@
 <br /><br />
 
 <div><h1>경험해본 기술</h1></div>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a> <img src="https://img.shields.io/badge/Redis-7F52FF?style=for-the-badge"/></a> <img src="https://img.shields.io/badge/QueryDSL-7E4DD2?style=for-the-badge&logo=a&logoColor=white"/></a> <img src="https://img.shields.io/badge/Spring Cloud-61DAFB?style=for-the-badge"/></a> <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=for-the-badge"/></a> <img src="https://img.shields.io/badge/Jenkins-DC382D?style=for-the-badge"/></a> <img src="https://img.shields.io/badge/Docker-61DAFB?style=for-the-badge"/></a> <img src="https://img.shields.io/badge/RabbitMQ-7F12FF?style=for-the-badge"/></a> <img src="https://img.shields.io/badge/Kafka-CC9808?style=for-the-badge"/></a> <img src="https://img.shields.io/badge/spring batch-FF9900?style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Redis-7F52FF?style=for-the-badge"/></a> 
+<img src="https://img.shields.io/badge/QueryDSL-7E4DD2?style=for-the-badge&logo=a&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Spring Cloud-61DAFB?style=for-the-badge"/></a> 
+<img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=for-the-badge"/></a> 
+<img src="https://img.shields.io/badge/Jenkins-DC382D?style=for-the-badge"/></a> 
+<img src="https://img.shields.io/badge/Docker-61DAFB?style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/RabbitMQ-7F12FF?style=for-the-badge"/></a> 
+<img src="https://img.shields.io/badge/Kafka-CC9808?style=for-the-badge"/></a> 
+<img src="https://img.shields.io/badge/spring batch-FF9900?style=for-the-badge"/></a>
 <br /><br />
 
 <!--
