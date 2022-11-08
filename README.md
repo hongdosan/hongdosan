@@ -5,7 +5,7 @@
         style="height : auto; weignt : 200px; margin-left : 10px; margin-right : 10px;"/>
     </a>
 </b> <br />
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HyuckJuneHong&show_icons=true&theme=graywhite)]
+[![Anurag's github stats] (https://github-readme-stats.vercel.app/api?username=HyuckJuneHong&show_icons=true&theme=graywhite)]
 
 
 <br /><br /><br />
