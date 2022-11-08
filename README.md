@@ -3,7 +3,7 @@
     <img 
         src="http://img.shields.io/badge/-기술 블로그 : 개발을 DAMDA -6DB33F?style=for-the-badge&logo=Github&link=https://hongdosan.tistory.com/"
         style="height : auto; weignt : 200px; margin-left : 10px; margin-right : 10px;"/>
-    </a></b>
+    </a></b><br />
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HyuckJuneHong&show_icons=true&theme=graywhite)](https://github.com/HyuckJuneHong/github-readme-stats)
 
 <br /><br /><br />
