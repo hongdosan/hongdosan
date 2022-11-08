@@ -1,10 +1,9 @@
 [![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hongdosan's%20TechBlog&fontSize=77&animation=fadeIn&fontAlignY=38&desc=개발을DAMDA!&descAlignY=51&descAlign=62)](https://hongdosan.tistory.com/)
   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HyuckJuneHong&show_icons=true&theme=graywhite)](https://github.com/HyuckJuneHong/github-readme-stats)
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HyuckJuneHong&show_icons=true&theme=graywhite)](https://github.com/HyuckJuneHong?tab=repositories)
 <h1></h1>
 
-### **DEEP 하게 공부하고 있는 기술**
+### **DEEP 하게 공부 중인 기술**
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Boot-2DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a>
