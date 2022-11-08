@@ -1,12 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hongdosan's%20Github&fontSize=77&animation=fadeIn&fontAlignY=38&desc=Welcome!&descAlignY=51&descAlign=62)
 
 <div>
-<a href="https://hongdosan.tistory.com/">
-    <img 
-         src="http://img.shields.io/badge/- <h3>기술 블로그 : 개발을 DAMDA </h3>-6DB33F?style=for-the-badge&logo=Github&link=https://hongdosan.tistory.com/"
-        style="height : auto; weignt : 100px; margin-left : 10px; margin-right : 10px;"/>
-</a> </div>
-<br />
+    <a href="https://hongdosan.tistory.com/">
+        <h3>
+            <img 
+                 src="http://img.shields.io/badge/- 기술 블로그 : 개발을 DAMDA -6DB33F?style=for-the-badge&logo=Github&link=https://hongdosan.tistory.com/"
+                style="height : auto; weignt : 100px; margin-left : 10px; margin-right : 10px;"/>
+        </h3>
+    </a> 
+</div> <br />
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HyuckJuneHong&show_icons=true&theme=graywhite)](https://github.com/HyuckJuneHong/github-readme-stats)
 
