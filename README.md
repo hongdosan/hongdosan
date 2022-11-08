@@ -2,17 +2,17 @@
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HyuckJuneHong&show_icons=true&theme=graywhite)](https://github.com/HyuckJuneHong/github-readme-stats)
 
-<br /><br /><br />
-<br /><br /><br />
+<h1></h1>
 
-<div><h1>경험을 벗어나 깊은 지식을 위해 공부하고 있는 기술</h1></div>
+### **DEEP 하게 공부하고 있는 기술**
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Boot-2DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Data JPA-81B81A?style=for-the-badge&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Security & JWT-61DAFB?style=for-the-badge&logo=a&logoColor=white"/></a>
 </p>
-<div><h1>경험해본 기술</h1></div>
+
+### **경험해본 기술**
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Redis-7F52FF?style=for-the-badge"/></a> 
