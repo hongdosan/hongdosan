@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/Redis-7F52FF?style=for-the-badge"/></a> 
 <img src="https://img.shields.io/badge/QueryDSL-7E4DD2?style=for-the-badge&logo=a&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Spring Cloud-61DAFB?style=for-the-badge"/></a> 
+<img src="https://img.shields.io/badge/MSA-21DZFB?style=for-the-badge"/></a> 
 <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=for-the-badge"/></a> 
 <img src="https://img.shields.io/badge/Jenkins-DC382D?style=for-the-badge"/></a> 
 <img src="https://img.shields.io/badge/Docker-61DAFB?style=for-the-badge"/></a>
