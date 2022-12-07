@@ -3,30 +3,6 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HyuckJuneHong&show_icons=true&theme=graywhite)](https://github.com/HyuckJuneHong?tab=repositories)
 <h1></h1>
 
-### **DEEP 하게 공부 중인 기술**
-<p>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring Boot-2DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring Data JPA-81B81A?style=for-the-badge&logo=Spring&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring Security & JWT-61DAFB?style=for-the-badge&logo=a&logoColor=white"/></a>
-</p>
-
-### **경험해본 기술**
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Redis-7F52FF?style=for-the-badge"/></a> 
-<img src="https://img.shields.io/badge/QueryDSL-7E4DD2?style=for-the-badge&logo=a&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Spring Cloud-61DAFB?style=for-the-badge"/></a> 
-<img src="https://img.shields.io/badge/MSA-21DZFB?style=for-the-badge"/></a> 
-<img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=for-the-badge"/></a> 
-<img src="https://img.shields.io/badge/Jenkins-DC382D?style=for-the-badge"/></a> 
-<img src="https://img.shields.io/badge/Docker-61DAFB?style=for-the-badge"/></a>
-<img src="https://img.shields.io/badge/RabbitMQ-7F12FF?style=for-the-badge"/></a> 
-<img src="https://img.shields.io/badge/Kafka-CC9808?style=for-the-badge"/></a> 
-<img src="https://img.shields.io/badge/spring batch-FF9900?style=for-the-badge"/></a>
-</p>
-<br /><br />
-
 <!--
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=HyuckJuneHong&show_icons=true&locale=en&layout=compact" alt="HyuckJuneHong" /></p>
 
