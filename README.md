@@ -1,8 +1,8 @@
-[![개발을 담다 바로가기!](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hongdosan's%20Tech-Blog&fontSize=77&animation=fadeIn&fontAlignY=38&desc=바로가기!&descAlignY=51&descAlign=62)](https://hongdosan.tistory.com/)
+[![개발을 담다 바로가기!](https://capsule-render.vercel.app/api?type=waving&color=auto&height=157&section=header&text=Hongdosan's%20Tech-Blog&fontSize=50&animation=fadeIn&fontAlignY=38&desc=[Click!]&descAlignY=17&descAlign=7)](https://hongdosan.tistory.com/)
 
 <h1></h1>
 
-[![모아밤 테크 블로그 바로가기!](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Moabam's%20Tech-Blog&fontSize=77&animation=fadeIn&fontAlignY=38&desc=바로가기!&descAlignY=51&descAlign=62)](https://team-moabam.github.io/)
+[![모아밤 테크 블로그 바로가기!](https://capsule-render.vercel.app/api?type=waving&color=auto&height=157&section=header&text=Moabam's%20Tech-Blog&fontSize=50&animation=fadeIn&fontAlignY=38&desc=[Click!]&descAlignY=17&descAlign=7)](https://team-moabam.github.io/)
 
 <h1></h1>
 
