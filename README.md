@@ -1,4 +1,4 @@
-[![개발을 담다](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=홍도산's%20Tech-Blog&fontSize=37&animation=fadeIn&fontAlignY=38&descAlignY=37&descAlign=77)](https://hongdosan.tistory.com/)
+[![개발을 담다](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=120&section=header&text=홍도산's%20Tech-Blog&fontSize=37&animation=fadeIn&fontAlignY=30&descAlignY=37&descAlign=77)](https://hongdosan.tistory.com/)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?env=PAT_1&username=HyuckJuneHong&theme=graywhite)](https://github.com/HyuckJuneHong?tab=repositories)
 
