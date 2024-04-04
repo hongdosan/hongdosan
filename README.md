@@ -2,7 +2,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?env=PAT_1&username=HyuckJuneHong&theme=graywhite)](https://github.com/HyuckJuneHong?tab=repositories)
 
-<h1></h1>
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=80&section=footer&fontAlignY=85&fontSize=10)](https://hongdosan.tistory.com/)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbombo-dev%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
