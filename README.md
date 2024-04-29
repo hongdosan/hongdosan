@@ -3,7 +3,7 @@
 <a href="https://hongdosan.tistory.com/"><img src="http://img.shields.io/badge/-Tech%20blog-red?style=flat-square&logo=tistory&link=https://hongdosan.tistory.com/"></a>
 <a href="https://www.linkedin.com/in/hongdosan/"><img src="http://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/hongdosan/"></a>
 
-[![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/HyuckJuneHong&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/HyuckJuneHong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=EFDC05&height=70&section=footer)
 
