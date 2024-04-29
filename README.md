@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=30A9DE&height=100&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=30A9DE&height=70&section=header)
 
 <a href="https://hongdosan.tistory.com/"><img src="http://img.shields.io/badge/-Tech%20blog-red?style=flat-square&logo=tistory&link=https://hongdosan.tistory.com/"></a>
 <a href="https://www.linkedin.com/in/hongdosan/"><img src="http://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/hongdosan/"></a>
