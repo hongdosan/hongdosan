@@ -1,39 +1,24 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=30A9DE&height=70&section=header)
+# Hong Hyuckjune
 
 <a href="https://hongdosan.tistory.com/"><img src="http://img.shields.io/badge/-Tech%20blog-red?style=flat-square&logo=tistory&link=https://hongdosan.tistory.com/"></a>
-<a href="https://www.linkedin.com/in/hongdosan/"><img src="http://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/hongdosan/"></a>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/HyuckJuneHong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+- [과거의 나 앞으로의 나](https://hongdosan.tistory.com/383)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=EFDC05&height=70&section=footer)
+**주요 트러블 슈팅**
+- [실시간 선착순 쿠폰 이벤트](https://hongdosan.tistory.com/376)
+- [동시성 이슈 해결하기](https://hongdosan.tistory.com/373)
 
-<!--
-![footer](https://capsule-render.vercel.app/api?type=waving&color=EFDC05&height=70&section=footer)
+## 경력
+- Hunesion (2024.05 ~ 재직 중) [첫 직장 회고록](https://hongdosan.tistory.com/388)
+   - FTC 관리자 모듈 개발 (아이원넷 솔루션)
 
-[![개발을 담다](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=120&section=header&text=홍도산's%20Tech-Blog&fontSize=37&animation=fadeIn&fontAlignY=30&descAlignY=37&descAlign=77)](https://hongdosan.tistory.com/)
+## 교육
+- 프로그래머스 백엔드 데브코스 4기 (2023.06 ~ 2023.12)
+- 한이음 ICT 개방형 실무 인재양성 프로그램 (2022.04 ~ 2022.11)
+- 서경대학교 소프트웨어학과 학사 (2017.03 ~ 2023.08)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?env=PAT_1&username=HyuckJuneHong&theme=graywhite)](https://github.com/HyuckJuneHong?tab=repositories)
-
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=80&section=footer&fontAlignY=85&fontSize=10)](https://hongdosan.tistory.com/)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbombo-dev%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=HyuckJuneHong&show_icons=true&locale=en&layout=compact" alt="HyuckJuneHong" /></p>
-
-**HyuckJuneHong/HyuckJuneHong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyuckJuneHong)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyuckJuneHong&show_icons=true&theme=graywhite)
--->
+## 개발 가치관
+- 개인보다는 팀 성장을 중요시여겨 팀에 융화되기 위해 노력합니다.
+    - [회고 & 피어리뷰 - 우물 안 개구리](https://hongdosan.tistory.com/328)
+    - [회고 & 피어리뷰 - 백둥이 제이툰!](https://hongdosan.tistory.com/379)
+    - [회고 & 피어리뷰 - 어쩌다보니 개발우수상?](https://hongdosan.tistory.com/382)
