@@ -11,7 +11,7 @@
 ## 경력
 
 - Onion Software (2025.01 ~ing)
-   - 
+   - ~ing
 - Hunesion (2024.05 ~ 2024.12)
    - FTC 관리자 모듈 개발 (아이원넷 솔루션)
    - [첫 직장 회고록](https://hongdosan.tistory.com/388)
