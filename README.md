@@ -9,8 +9,12 @@
 - [동시성 이슈 해결하기](https://hongdosan.tistory.com/373)
 
 ## 경력
-- Hunesion (2024.05 ~ 재직 중) [첫 직장 회고록](https://hongdosan.tistory.com/388)
+- Onion Software (2025.01 ~ing)
+   - 
+- Hunesion (2024.05 ~ 2024.12)
    - FTC 관리자 모듈 개발 (아이원넷 솔루션)
+   - [첫 직장 회고록](https://hongdosan.tistory.com/388)
+   - [짧지만 깊었던 휴네시온](https://hongdosan.tistory.com/407)
 
 ## 교육
 - 프로그래머스 백엔드 데브코스 4기 (2023.06 ~ 2023.12)
