@@ -9,7 +9,6 @@
 - [동시성 이슈 해결하기](https://hongdosan.tistory.com/373)
 
 ## 경력
-
 - Onion Software (2025.01 ~ing)
    - ~ing
 - Hunesion (2024.05 ~ 2024.12)
