@@ -9,7 +9,7 @@
 - [동시성 이슈 해결하기](https://hongdosan.tistory.com/373)
 
 ## 경력
-- Onion Software (2025.01 ~ing)
+- Onion Software (2025.01 ~ ing)
    - MK 119 Tenant Center
    - MK 119 Tenant Portal
    - Alarm & Event 모듈
