@@ -12,7 +12,7 @@
 - Onion Software (2025.01 ~ ing)
    - MK 119 Tenant Center
    - MK 119 Tenant Portal
-   - Alarm & Event 모듈
+   - Alarm & Event Module
 - Hunesion (2024.05 ~ 2024.11)
    - FTC 관리자 모듈 개발 (아이원넷 솔루션)
    - [첫 직장 회고록](https://hongdosan.tistory.com/388)
@@ -30,4 +30,4 @@
     - [데브코스 회고 & 피어리뷰 - 어쩌다보니 개발우수상?](https://hongdosan.tistory.com/382)
 
 ## 수상
-- 프로그래머스 데브코스 4기 개발 우수상
+- 프로그래머스 데브코스 4기 - 개발 우수상
