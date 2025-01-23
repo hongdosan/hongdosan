@@ -14,7 +14,7 @@
    - MK 119 Tenant Portal
    - Alarm & Event Module
 - Hunesion (2024.05 ~ 2024.11)
-   - FTC 관리자 모듈 개발 (아이원넷 솔루션)
+   - FTC Admin Module (i-onenet)
    - [첫 직장 회고록](https://hongdosan.tistory.com/388)
    - [짧지만 깊었던 휴네시온](https://hongdosan.tistory.com/407)
 
