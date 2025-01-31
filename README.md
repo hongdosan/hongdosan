@@ -9,18 +9,21 @@
 - [동시성 이슈 해결하기](https://hongdosan.tistory.com/373)
 
 ## 경력
-- Onion Software (2025.01 ~ ing)
-   - MK 119 Tenant Center
-   - MK 119 Tenant Portal
-   - Alarm & Event Module
-- Hunesion (2024.05 ~ 2024.11)
-   - FTC Admin Module (i-onenet)
+- onion software (2025.01 ~ ing)
+   - mk119 tenant center
+   - mk119 tenant portal
+   - alarm & event module
+- hunesion (2024.05 ~ 2024.11)
+   - i-onenet ftc admin module
    - [첫 직장 회고록](https://hongdosan.tistory.com/388)
    - [짧지만 깊었던 휴네시온](https://hongdosan.tistory.com/407)
 
 ## 교육
-- 프로그래머스 백엔드 데브코스 4기 (2023.06 ~ 2023.12)
-- 한이음 ICT 개방형 실무 인재양성 프로그램 (2022.04 ~ 2022.11)
+- programmers dev-course 4th (2023.06 ~ 2023.12)
+   - [moabam - final project](https://github.com/team-moabam/moabam-BE)
+   - [jtoon - sub project](https://github.com/prgrms-be-devcourse/BE-04-JTOON)
+- hanium ict mentoring (2022.04 ~ 2022.11)
+   - [popool](https://github.com/Backble/popool)
 - 서경대학교 소프트웨어학과 학사 (2017.03 ~ 2023.08)
 
 ## 개발 가치관
@@ -30,4 +33,4 @@
     - [데브코스 회고 & 피어리뷰 - 어쩌다보니 개발우수상?](https://hongdosan.tistory.com/382)
 
 ## 수상
-- 프로그래머스 데브코스 4기 - 개발 우수상
+- programmers dev-course final project - 개발 우수상
