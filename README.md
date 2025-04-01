@@ -15,7 +15,7 @@
    - i-onenet ftc admin module
 
 ## 교육 & 활동
-- 회고 없는 성장은 없다. 7th (2025.03 ~ ing)
+- there is no sashimi 7th (2025.03 ~ ing)
 - programmers dev-course 4th (2023.06 ~ 2023.12)
    - [moabam - final project](https://github.com/team-moabam/moabam-BE)
    - [jtoon - sub project](https://github.com/prgrms-be-devcourse/BE-04-JTOON)
