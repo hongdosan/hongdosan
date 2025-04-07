@@ -23,9 +23,11 @@
    - [popool](https://github.com/Backble/popool)
 - 서경대학교 소프트웨어학과 학사 (2017.03 ~ 2023.08)
 
-## 회고록
+## 생각 정리
 - [내가 낭비한 시간들](https://hongdosan.tistory.com/409)
 - [잘하려고 애쓰지 말자](https://hongdosan.tistory.com/408)
+
+## 회고록
 - [짧지만 깊었던](https://hongdosan.tistory.com/407)
 - [첫 직장](https://hongdosan.tistory.com/388)
 - ["왜?"를 생각하는 개발자](https://hongdosan.tistory.com/383)
