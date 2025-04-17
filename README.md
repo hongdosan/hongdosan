@@ -24,13 +24,13 @@
 
 ## 회고록
 - [기여는 연차가 아닌, 자세에서](https://hongdosan.tistory.com/410)
-- [짧지만 깊었던](https://hongdosan.tistory.com/407)
 - [첫 직장](https://hongdosan.tistory.com/388)
 - ["왜?"를 생각하는 개발자](https://hongdosan.tistory.com/383)
 
 ## 생각 정리
 - [내가 낭비한 시간들](https://hongdosan.tistory.com/409)
 - [잘하려고 애쓰지 말자](https://hongdosan.tistory.com/408)
+- [짧지만 깊었던](https://hongdosan.tistory.com/407)
 
 ## 개발 가치관
 - 개인보다는 팀 성장을 중요시여겨 팀에 융화되기 위해 노력합니다.
