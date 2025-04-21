@@ -24,10 +24,11 @@
 
 ## 회고록
 - [기여는 연차가 아닌, 자세에서](https://hongdosan.tistory.com/410)
-- [첫 직장](https://hongdosan.tistory.com/388)
+- [첫 직장, 그리고 정규직](https://hongdosan.tistory.com/388)
 - ["왜?"를 생각하는 개발자](https://hongdosan.tistory.com/383)
 
 ## 생각 정리
+- [태양은 뜨기 위해 진다](https://hongdosan.tistory.com/411)
 - [내가 낭비한 시간들](https://hongdosan.tistory.com/409)
 - [잘하려고 애쓰지 말자](https://hongdosan.tistory.com/408)
 - [짧지만 깊었던](https://hongdosan.tistory.com/407)
