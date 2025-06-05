@@ -29,7 +29,7 @@
 - ["왜?"를 생각하는 개발자](https://hongdosan.tistory.com/383)
 
 ## 생각 정리
-- [내 안의 흑염...ㄹ 아니, DDD가 깨어났다.](https://hongdosan.tistory.com/m/413)
+- [내 안의 흑염...ㄹ.... 아니, DDD가 깨어났다.](https://hongdosan.tistory.com/m/413)
 - [개발자로 살아간다는 것](https://hongdosan.tistory.com/412)
 - [태양은 뜨기 위해 진다](https://hongdosan.tistory.com/411)
 - [내가 낭비한 시간들](https://hongdosan.tistory.com/409)
