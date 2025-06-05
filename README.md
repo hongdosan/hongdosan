@@ -24,12 +24,12 @@
 - 서경대학교 소프트웨어학과 학사 (2017.03 ~ 2023.08)
 
 ## 회고록
+- [내 안의 흑염...ㄹ.... 아니, DDD가 깨어났다.](https://hongdosan.tistory.com/m/413)
 - [기여는 연차가 아닌, 자세에서](https://hongdosan.tistory.com/410)
 - [첫 직장, 그리고 정규직](https://hongdosan.tistory.com/388)
 - ["왜?"를 생각하는 개발자](https://hongdosan.tistory.com/383)
 
 ## 생각 정리
-- [내 안의 흑염...ㄹ.... 아니, DDD가 깨어났다.](https://hongdosan.tistory.com/m/413)
 - [개발자로 살아간다는 것](https://hongdosan.tistory.com/412)
 - [태양은 뜨기 위해 진다](https://hongdosan.tistory.com/411)
 - [내가 낭비한 시간들](https://hongdosan.tistory.com/409)
