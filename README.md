@@ -8,7 +8,7 @@
 
 ## 경력
 - onion software (2025.01 ~ ing)
-   - Maintenance (CMMS)
+   - maintenance (CMMS)
    - mk119 tenant center/portal
    - alarm & event module
 - hunesion (2024.05 ~ 2024.11)
