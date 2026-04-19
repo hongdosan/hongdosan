@@ -6,11 +6,14 @@
 
 ## 경력
 - onion software (2025.01 ~ ing)
-   - maintenance (CMMS)
-   - mk119 tenant center/portal
-   - alarm & event module
+   - mk119 cmms system
+   - mk119 alarm & event system 
+   - mk119 tenant center/portal system
 - hunesion (2024.05 ~ 2024.11)
-   - i-onenet ftc admin module
+   - i-onenet ftc admin system
+ 
+## 취미
+- [무협 월드, 천기망입니다만?](https://hongdosan.tistory.com/415) (2026.04 ~ ing)
 
 ## 교육 & 활동
 - there is no sashimi 7th (2025.03 ~ 2025.05)
