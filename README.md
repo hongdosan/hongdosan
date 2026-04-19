@@ -1,5 +1,3 @@
-# Hong Hyuckjune
-
 <a href="https://hongdosan.tistory.com/"><img src="http://img.shields.io/badge/-Tech%20blog-red?style=flat-square&logo=tistory&link=https://hongdosan.tistory.com/"></a>
 
 **주요 트러블 슈팅**
