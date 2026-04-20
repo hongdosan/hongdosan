@@ -19,8 +19,7 @@
 
 ## 교육 & 활동
 - there is no sashimi 7th (2025.03 ~ 2025.05)
-- programmers dev-course 4th (2023.06 ~ 2023.12)
-   - [moabam - final project](https://github.com/team-moabam/moabam-BE)
+- programmers dev-course 4th (2023.06 ~ 2023.12) - [moabam](https://github.com/team-moabam/moabam-BE)
 - hanium ict mentoring (2022.04 ~ 2022.11)
 - 서경대학교 소프트웨어학과 학사 (2017.03 ~ 2023.08)
 
