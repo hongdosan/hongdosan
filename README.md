@@ -21,9 +21,7 @@
 - there is no sashimi 7th (2025.03 ~ 2025.05)
 - programmers dev-course 4th (2023.06 ~ 2023.12)
    - [moabam - final project](https://github.com/team-moabam/moabam-BE)
-   - [jtoon - sub project](https://github.com/prgrms-be-devcourse/BE-04-JTOON)
 - hanium ict mentoring (2022.04 ~ 2022.11)
-   - [popool](https://github.com/Backble/popool)
 - 서경대학교 소프트웨어학과 학사 (2017.03 ~ 2023.08)
 
 ## 회고록
