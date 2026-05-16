@@ -18,7 +18,7 @@
 > - repository: [martial-arts](https://github.com/hongdosan/martial-arts) / [issue](https://github.com/hongdosan/martial-arts/issues) / [discussion](https://github.com/hongdosan/martial-arts/discussions/12) / [private-config](https://github.com/hongdosan/martial-arts-config)
 
 > live: [히리즈(Heries)](https://hongdosan.github.io/heries/#/) (2026.05 ~ ing)
-> - repository: [heries](https://github.com/hongdosan/heries) 
+> - repository: [heries](https://github.com/hongdosan/heries) / [private-config](https://github.com/hongdosan/martial-arts-config/tree/main/heries)
 
 ## 교육 & 활동
 - there is no sashimi 7th (2025.03 ~ 2025.05)
