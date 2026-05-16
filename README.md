@@ -13,12 +13,12 @@
    - i-onenet ftc admin system
  
 ## 취미
-> live: [천기망(天機網)](https://hongdosan.github.io/martial-arts/)
-> - blog: [무협 월드, 천기망입니다만?](https://hongdosan.tistory.com/415) (2026.04 ~ ing)
+> live: [천기망(天機網)](https://hongdosan.github.io/martial-arts/) (2026.04 ~ ing)
+> - blog: [무협 월드, 천기망입니다만?](https://hongdosan.tistory.com/415)
 > - repository: [martial-arts](https://github.com/hongdosan/martial-arts) / [issue](https://github.com/hongdosan/martial-arts/issues) / [discussion](https://github.com/hongdosan/martial-arts/discussions/12) / [private-config](https://github.com/hongdosan/martial-arts-config)
 
-> live: [히리즈(Heries)](https://hongdosan.github.io/heries/#/)
-> - repository: [heries](https://github.com/hongdosan/heries)
+> live: [히리즈(Heries)](https://hongdosan.github.io/heries/#/) (2026.05 ~ ing)
+> - repository: [heries](https://github.com/hongdosan/heries) 
 
 ## 교육 & 활동
 - there is no sashimi 7th (2025.03 ~ 2025.05)
