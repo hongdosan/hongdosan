@@ -4,6 +4,10 @@
 - [실시간 선착순 쿠폰 이벤트](https://hongdosan.tistory.com/376)
 - [동시성 이슈 해결하기](https://hongdosan.tistory.com/373)
 
+**AI Skills (self-made)**
+- [Spec-Driven Orchestra](https://github.com/hongdosan/hongdosan-spec-driven-orchestra)
+- [Vibe Flow](https://github.com/hongdosan/vibe-flow)
+
 ## 경력
 - onion software (2025.01 ~ ing)
    - mk119 cmms system
