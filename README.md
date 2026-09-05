@@ -4,10 +4,6 @@
 - [실시간 선착순 쿠폰 이벤트](https://hongdosan.tistory.com/376)
 - [동시성 이슈 해결하기](https://hongdosan.tistory.com/373)
 
-**AI Skills (self-made)**
-- [Spec-Driven Orchestra](https://github.com/hongdosan/hongdosan-spec-driven-orchestra)
-- [Vibe Flow](https://github.com/hongdosan/vibe-flow)
-
 ## 경력
 - onion software (2025.01 ~ ing)
    - mk119 cmms system
@@ -15,14 +11,6 @@
    - mk119 tenant center/portal system
 - hunesion (2024.05 ~ 2024.11)
    - i-onenet ftc admin system
- 
-## 취미
-> live: [천기망(天機網)](https://hongdosan.github.io/martial-arts/) (2026.04 ~ ing)
-> - blog: [무협 월드, 천기망입니다만?](https://hongdosan.tistory.com/415)
-> - repository: [martial-arts](https://github.com/hongdosan/martial-arts) / [issue](https://github.com/hongdosan/martial-arts/issues) / [discussion](https://github.com/hongdosan/martial-arts/discussions/12) / [private-config](https://github.com/hongdosan/martial-arts-config)
-
-> live: [히리즈(Heries)](https://hongdosan.github.io/heries/#/) (2026.05 ~ ing)
-> - repository: [heries](https://github.com/hongdosan/heries) / [private-config](https://github.com/hongdosan/martial-arts-config/tree/main/heries)
 
 ## 교육 & 활동
 - there is no sashimi 7th (2025.03 ~ 2025.05)
