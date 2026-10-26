@@ -1,7 +1,7 @@
 <a href="https://hongdosan.tistory.com/"><img src="http://img.shields.io/badge/-Tech%20blog-red?style=flat-square&logo=tistory&link=https://hongdosan.tistory.com/"></a>
 
 **소소한 취미**
-- [혈로행:게임_BETA](hyeollo-wuxia-roguelike.vercel.app): 지속적으로 업데이트 중입니다 **(๑•̀ㅁ•́๑)✧**
+- [혈로행:BETA](hyeollo-wuxia-roguelike.vercel.app): 지속적으로 업데이트 중입니다 **(๑•̀ㅁ•́๑)✧**
 
 
 **주요 트러블 슈팅**
