@@ -1,5 +1,8 @@
 <a href="https://hongdosan.tistory.com/"><img src="http://img.shields.io/badge/-Tech%20blog-red?style=flat-square&logo=tistory&link=https://hongdosan.tistory.com/"></a>
 
+** 소소한 (๑•̀ㅁ•́๑)✧ 취미 **
+- [혈로행:게임](hyeollo-wuxia-roguelike.vercel.app)
+
 **주요 트러블 슈팅**
 - [실시간 선착순 쿠폰 이벤트](https://hongdosan.tistory.com/376)
 - [동시성 이슈 해결하기](https://hongdosan.tistory.com/373)
